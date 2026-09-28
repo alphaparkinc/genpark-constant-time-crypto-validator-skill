@@ -1,0 +1,9 @@
+{
+  "name": "genpark-constant-time-crypto-validator-skill",
+  "version": "1.0.0",
+  "description": "Side-channel timing attack defense primitive providing constant-time bitwise and string digest comparison for agent security credentials.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
